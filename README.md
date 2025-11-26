@@ -13,4 +13,8 @@ Khedma is a self-service Point-of-Sale (POS) application designed to make the do
 
 ## 🎥 Video Showcase
 A video demonstrating the donation flow, UI screens, and kiosk interaction will be available here:
-[khedma-demo.webm](https://github.com/user-attachments/assets/6d165bcb-2d62-417a-986c-d2d94b9c84d5)
+<video width="600" controls>
+  <source src="https://github.com/user-attachments/assets/6d165bcb-2d62-417a-986c-d2d94b9c84d5" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
